@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bản đồ quán ăn</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@latest/ol.css">
+    <script src="https://cdn.jsdelivr.net/npm/ol@latest/dist/ol.js"></script>
+    <script src="https://kit.fontawesome.com/9db1097153.js" crossorigin="anonymous"></script>
+    <link rel="icon" href="data/25530.jpg" type="image/png">
+</head>
+<body>
+    <div class="title">
+        <div class="box1">
+            <img src="data/25530.jpg" alt="logo">
+            <h3>Bản Đồ Quán Ăn</h3>
+      
+        </div>
+        <div class="box2">
+            <ul>
+              <li><a href="trangChu.html">Trang Chủ</a></li>
+              <li><a href="#">Giới Thiệu</a></li>
+              <li><a href="#">Chức Năng</a></li>
+              <li><a href="#">Hỗ Trợ</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="container">
+        <!-- Bản đồ -->
+        <div id="map"></div>
+
+        <!-- Thanh bên phải -->
+        <div class="sidebar">
+            <div class="searchFE">
+                <input type="text" id="searchBar" placeholder="Tìm kiếm quán ăn" class="search-input" oninput="search()">
+                <ul id="searchResults" class="search-results"></ul>
+                <i class="fa-solid fa-magnifying-glass search-icon" id="searchIcon"></i>  
+            </div>
+    
+            <!-- Các lựa chọn bật/tắt lớp bản đồ -->
+            <div class="layer-controls">
+                <label for="kfc-layer">
+                    <input type="checkbox" id="kfc-layer" checked>
+                    <img src="data/kfc.png" alt="KFC" class="checkbox-image-kfc">
+                </label>
+                
+                <label for="lotte-layer">
+                    <input type="checkbox" id="lotte-layer" checked>
+                    <img src="data/lotteria-logo.jpg" alt="Lotte" class="checkbox-image-lotteria">
+                </label>
+                
+                <label for="jollibee-layer">
+                    <input type="checkbox" id="jollibee-layer" checked>
+                    <img src="data/z4283261805031_602f2b0f9c0f1ab9bb9f5d145233b779-750x468.jpg" alt="Jollibee" class="checkbox-image-jollibee">
+                </label>
+            </div>
+
+            <div class="location-button">
+                <button id="currentLocationBtn">Hiển thị vị trí hiện tại</button>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="ft_box1">
+        </div>
+    </footer>
+    <div id="popup" class="popup" style="display: none;"></div>
+    <script src="script.js"></script>
+    <script src="search.js"></script>
+</body>
+</html>

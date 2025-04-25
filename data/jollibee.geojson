@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.960798408450717, 105.76617478828503]
+      },
+      "properties": {
+        "name": "Jollibee Văn Phú",
+        "address": "kết hợp dịch vụ H-CT1 thuộc dự án Khu nhà ở Hi Brand, Tòa nhà A chung cư Lacasta, 10 Đ. Lê Trọng Tấn, Phú La, Hà Đông, Hà Nội Căn DV28-T1 và căn DV29-T1, Tòa chung cư, Hà Đông, Hà Nội, Việt Nam",
+        "time": "10:00 - 21:00",
+        "phoneNumber": "02473012258",
+        "website": "https://jollibee.com.vn/",
+        "rate": "Không có đánh giá",
+        "information": "\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa trưa\n - Bữa tối\n - Dịch vụ ăn uống\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n\nKHÁCH HÀNG:\n - Nhóm\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.978375464500424, 105.78780412549699]
+      },
+      "properties": {
+        "name": "Jollibee Nguyễn Khuyến Hà Nội",
+        "address": "38 Nguyễn Khuyến, P. Văn Quán, Hà Đông, Hà Nội, Việt Nam",
+        "time": "10:00 - 21:00",
+        "phoneNumber": "02473018095",
+        "website": "https://jollibee.com.vn/",
+        "rate": "4,4/5 \uf005 (79 bài đánh giá)",
+        "information":"\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa trưa\n - Bữa tối\n - Dịch vụ ăn uống\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n\nKHÁCH HÀNG:\n - Nhóm\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.98241754444003, 105.79022347803136]
+      },
+      "properties": {
+        "name": "Jollibee CoopMart Hà Đông",
+        "address": "Coop Mart, Km 10 Đ. Nguyễn Trãi, P. Mộ Lao, Hà Đông, Hà Nội, Việt Nam",
+        "time": "10:00 - 21:00",
+        "phoneNumber": "19001533",
+        "website": "https://jollibee.com.vn/",
+        "rate": "4,1/5 \uf005 (502 bài đánh giá)",
+        "information": "\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa trưa\n - Bữa tối\n - Dịch vụ ăn uống\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n\nKHÁCH HÀNG:\n - Nhóm\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.984180598301503, 105.78756272679783]
+      },
+      "properties": {
+        "name": "Jollibee Nguyễn Văn Lộc",
+        "address": "101 P. Nguyễn Văn Lộc, P. Mộ Lao, Hà Đông, Hà Nội, Việt Nam",
+        "time": "10:00 - 22:00",
+        "phoneNumber": "02473003295",
+        "website": "https://jollibee.com.vn/",
+        "rate": "4,0/5 \uf005 (87 bài đánh giá)",
+        "information": "\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa trưa\n - Bữa tối\n - Dịch vụ ăn uống\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n\nKHÁCH HÀNG:\n - Nhóm\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.989797544842542, 105.75067166937288]
+      },
+      "properties": {
+        "name": "Jollibee Aeon Mall Hà Đông",
+        "address": "1 & T355-2, Tại Trung Tâm Thương Mại AEON MALL, Cụm Dân Cư, Hoàng Văn Thụ, Dương Nội, Hà Đông, Hà Nội, Việt Nam",
+        "time": "10:00 - 21:00",
+        "phoneNumber": "02422310246",
+        "website": "https://jollibee.com.vn/",
+        "rate":"4,4/5 \uf005 (167 bài đánh giá)",
+        "information": "\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa trưa\n - Bữa tối\n - Dịch vụ ăn uống\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n\nKHÁCH HÀNG:\n - Nhóm\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    }
+  ]
+}

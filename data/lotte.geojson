@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.96363371886315, 105.77190398922004]
+      },
+      "properties": {
+        "name": "Lotteria HN Mê Linh 4F",
+        "address": "Tầng 4 TTTM Mê Linh, Đ. Tô Hiệu, Hà Cầu, Hà Đông, Hà Nội 100000, Việt Nam",
+        "time": "09:00 - 21:30",
+        "phoneNumber": "19006778",
+        "website": "http://www.lotteria.vn/",
+        "rate": "4,1/5 \uf005 (150 bài đánh giá)",
+        "information": "\nPHÙ HỢP CHO NGƯỜI KHUYẾT TẬT:\n - Nhà vệ sinh cho xe lăn\n - Chỗ đỗ xe cho xe lăn\n - Chỗ ngồi cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nDỊCH VỤ:\n - Phần ăn nhỏ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa sáng\n - Bữa trưa\n - Bữa tối\n - Bữa nửa buổi\n - Dịch vụ ăn uống\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n - Ấm cúng\n\nKHÁCH HÀNG:\n - Nhóm\n\nLÊN KẾ HOẠCH:\n - Nhận đặt chỗ\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Ghế cao cho bé\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.961818459449795, 105.79358432844094]
+      },
+      "properties": {
+        "name": "Lotteria HN Xa La",
+        "address": "Tầng 1 ,CT4A, Khu đô thị Xa La, Hà Đông, Hà Nội, Việt Nam",
+        "time": "08:00 - 22:30",
+        "phoneNumber": "19006778",
+        "website": "http://www.lotteria.vn/",
+        "rate": "4,0/5 \uf005 (271 bài đánh giá)",
+        "information": "\nPHÙ HỢP CHO NGƯỜI KHUYẾT TẬT:\n - Nhà vệ sinh cho xe lăn\n - Chỗ đỗ xe cho xe lăn\n - Chỗ ngồi cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nDỊCH VỤ:\n - Phần ăn nhỏ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa sáng\n - Bữa trưa\n - Bữa tối\n - Bữa nửa buổi\n - Dịch vụ ăn uống\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n - Ấm cúng\n\nKHÁCH HÀNG:\n - Nhóm\n\nLÊN KẾ HOẠCH:\n - Nhận đặt chỗ\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Ghế cao cho bé\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.96489356129064, 105.79355525460369]
+      },
+      "properties": {
+        "name": "Lotteria HN Yên Xá",
+        "address": "L6 khu đấu giá, QSD đất, Tân Triều, Thanh Trì, Hà Nội, Việt Nam",
+        "time": "08:00 - 22:00",
+        "phoneNumber": "19006778",
+        "website": "http://www.lotteria.vn/",
+        "rate":"4,5/5 \uf005 (101 bài đánh giá)",
+        "information": "\nPHÙ HỢP CHO NGƯỜI KHUYẾT TẬT:\n - Nhà vệ sinh cho xe lăn\n - Chỗ đỗ xe cho xe lăn\n - Chỗ ngồi cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nDỊCH VỤ:\n - Phần ăn nhỏ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa sáng\n - Bữa trưa\n - Bữa tối\n - Bữa nửa buổi\n - Dịch vụ ăn uống\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n - Ấm cúng\n\nKHÁCH HÀNG:\n - Nhóm\n\nLÊN KẾ HOẠCH:\n - Nhận đặt chỗ\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Ghế cao cho bé\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.974693921230795, 105.78875086304235]
+      },
+      "properties": {
+        "name": "Lotteria Văn Quán",
+        "address": "Ct7A-Ct7B, Khu đô thị Văn Quán, Hà Đông, Hà Nội, Việt Nam",
+        "time": "08:00 - 22:30",
+        "phoneNumber": "19006778",
+        "website": "http://www.lotteria.vn/",
+        "rate": "4,0/5 \uf005 (707 bài đánh giá)",
+        "information": "\nPHÙ HỢP CHO NGƯỜI KHUYẾT TẬT:\n - Nhà vệ sinh cho xe lăn\n - Chỗ đỗ xe cho xe lăn\n - Chỗ ngồi cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nDỊCH VỤ:\n - Phần ăn nhỏ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa sáng\n - Bữa trưa\n - Bữa tối\n - Bữa nửa buổi\n - Dịch vụ ăn uống\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n - Ấm cúng\n\nKHÁCH HÀNG:\n - Nhóm\n\nLÊN KẾ HOẠCH:\n - Nhận đặt chỗ\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Ghế cao cho bé\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.982667979498228, 105.79008936635282]
+      },
+      "properties": {
+        "name": "Lotteria HN Coop Hà Đông",
+        "address": "TTTM Coop Mart, Km 10 Đ. Nguyễn Trãi, P. Mộ Lao, Hà Đông, Hà Nội 100000, Việt Nam",
+        "time": "Đóng cửa vĩnh viễn",
+        "phoneNumber": "19006778",
+        "website": "http://www.lotteria.vn/",
+        "rate": "4,4/5 \uf005 (230 bài đánh giá)",
+        "information": "\nPHÙ HỢP CHO NGƯỜI KHUYẾT TẬT:\n - Nhà vệ sinh cho xe lăn\n - Chỗ đỗ xe cho xe lăn\n - Chỗ ngồi cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nDỊCH VỤ:\n - Phần ăn nhỏ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa sáng\n - Bữa trưa\n - Bữa tối\n - Bữa nửa buổi\n - Dịch vụ ăn uống\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n - Ấm cúng\n\nKHÁCH HÀNG:\n - Nhóm\n\nLÊN KẾ HOẠCH:\n - Nhận đặt chỗ\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Ghế cao cho bé\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.98539268575492, 105.7821929432845]
+      },
+      "properties": {
+        "name": "Lotteria HN Mỗ Lao TSQ",
+        "address": "TTTM TSQ, Số Nhà 40-41, Khu A, Phường, Khu đô thị Mỗ Lao, Hà Đông, Việt Nam",
+        "time": "08:00 - 22:00",
+        "phoneNumber": "19006778",
+        "website": "http://www.lotteria.vn/",
+        "rate": "3,8/5 \uf005 (135 bài đánh giá)",
+        "information": "\nPHÙ HỢP CHO NGƯỜI KHUYẾT TẬT:\n - Nhà vệ sinh cho xe lăn\n - Chỗ đỗ xe cho xe lăn\n - Chỗ ngồi cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nDỊCH VỤ:\n - Phần ăn nhỏ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa sáng\n - Bữa trưa\n - Bữa tối\n - Bữa nửa buổi\n - Dịch vụ ăn uống\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n - Ấm cúng\n\nKHÁCH HÀNG:\n - Nhóm\n\nLÊN KẾ HOẠCH:\n - Nhận đặt chỗ\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Ghế cao cho bé\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.98945961821097, 105.75122952213913]
+      },
+      "properties": {
+        "name": "Lotteria AeonMall Hà Đông",
+        "address": "Dương Nội, Hà Đông, Hà Nội, Việt Nam",
+        "time": "09:00 - 21:00",
+        "phoneNumber": "19006778",
+        "website": "http://www.lotteria.vn/",
+        "rate":"4,5/5 \uf005 (550 bài đánh giá)",
+        "information": "\nPHÙ HỢP CHO NGƯỜI KHUYẾT TẬT:\n - Nhà vệ sinh cho xe lăn\n - Chỗ đỗ xe cho xe lăn\n - Chỗ ngồi cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nDỊCH VỤ:\n - Phần ăn nhỏ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa sáng\n - Bữa trưa\n - Bữa tối\n - Bữa nửa buổi\n - Dịch vụ ăn uống\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n - Ấm cúng\n\nKHÁCH HÀNG:\n - Nhóm\n\nLÊN KẾ HOẠCH:\n - Nhận đặt chỗ\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Ghế cao cho bé\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    }
+  ]
+}

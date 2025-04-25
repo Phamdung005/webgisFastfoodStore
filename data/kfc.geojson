@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.955767873577063, 105.75627027387387]
+      },
+      "properties": {
+        "name": "KFC",
+        "address": "XQ44+8GQ, Melinh, Hà Đông, Hà Nội, Việt Nam",
+        "time": "10:00 - 22:00",
+        "phoneNumber": "0986169090",
+        "website": "http://www.kfcvietnam.com.vn/",
+        "rate": "3/5 \uf005 (2 bài đánh giá)",
+        "information": "\n - PHÙ HỢP CHO NGƯỜI KHUYẾT TẬT: Nhà vệ sinh cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa trưa\n - Bữa tối\n - Dịch vụ ăn uống\n - Dịch vụ tại quầy\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ ghi nợ\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n\nKHÁCH HÀNG:\n - Nhóm\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Phù hợp cho tiệc sinh nhật của trẻ em\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.96052867704897, 105.76270356864241]
+      },
+      "properties": {
+        "name": "KFC",
+        "address": "484 Đ. Quang Trung, P, Hà Đông, Hà Nội 100000, Việt Nam",
+        "time": "10:00 - 22:00",
+        "phoneNumber": "19006886",
+        "website": "http://www.kfcvietnam.com.vn/",
+        "rate": "4,3/5 \uf005 (947 bài đánh giá)",
+        "information": "\n - PHÙ HỢP CHO NGƯỜI KHUYẾT TẬT: Nhà vệ sinh cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa trưa\n - Bữa tối\n - Dịch vụ ăn uống\n - Dịch vụ tại quầy\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ ghi nợ\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n\nKHÁCH HÀNG:\n - Nhóm\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Phù hợp cho tiệc sinh nhật của trẻ em\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.964155854177143, 105.77192867057468]
+      },
+      "properties": {
+        "name": "KFC Mê Linh",
+        "address": "Tầng 4, TTTM Mê Linh, Đ. Tô Hiệu, Hà Cầu, Hà Đông, Hà Nội 100000, Việt Nam",
+        "time": "10:00 - 22:00",
+        "phoneNumber": "19006886",
+        "website": "http://www.kfcvietnam.com.vn/",
+        "rate": "4,4/5 \uf005 (328 bài đánh giá)",
+        "information": "\n - PHÙ HỢP CHO NGƯỜI KHUYẾT TẬT: Nhà vệ sinh cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa trưa\n - Bữa tối\n - Dịch vụ ăn uống\n - Dịch vụ tại quầy\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ ghi nợ\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n\nKHÁCH HÀNG:\n - Nhóm\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Phù hợp cho tiệc sinh nhật của trẻ em\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.96211557791561, 105.7932920652473]
+      },
+      "properties": {
+        "name": "KFC",
+        "address": "BT08-VT20 Khu đô thị Xa La, 100000, Việt Nam",
+        "time":"10:00 - 22:00",
+        "phoneNumber": "19006886",
+        "website": "http://www.kfcvietnam.com.vn/",
+        "rate": "4,1/5 \uf005 (400 bài đánh giá)",
+        "information": "\n - PHÙ HỢP CHO NGƯỜI KHUYẾT TẬT: Nhà vệ sinh cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa trưa\n - Bữa tối\n - Dịch vụ ăn uống\n - Dịch vụ tại quầy\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ ghi nợ\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n\nKHÁCH HÀNG:\n - Nhóm\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Phù hợp cho tiệc sinh nhật của trẻ em\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.97889035668308, 105.78552355820445]
+      },
+      "properties": {
+        "name": "KFC",
+        "address": "Kiosk 8, Tầng 1, TTTM Hồ Gươm Plaza, Khu đô thị Mỗ Lao, 100000, Việt Nam",
+        "time": "10:00 - 22:00",
+        "phoneNumber": "19006886",
+        "website": "http://www.kfcvietnam.com.vn/",
+        "rate": "4,5/5 \uf005 (485 bài đánh giá)",
+        "information": "\n - PHÙ HỢP CHO NGƯỜI KHUYẾT TẬT: Nhà vệ sinh cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa trưa\n - Bữa tối\n - Dịch vụ ăn uống\n - Dịch vụ tại quầy\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ ghi nợ\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n\nKHÁCH HÀNG:\n - Nhóm\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Phù hợp cho tiệc sinh nhật của trẻ em\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.989883616295867, 105.75165772281228]
+      },
+      "properties": {
+        "name": "KFC Aeon Mall Hà Đông Hà Nội",
+        "address": "Trung tâm thương mại Aeonmall, Dương Nội, Hà Đông, Hà Nội, Việt Nam",
+        "time": "10:00 - 22:00",
+        "phoneNumber": "19006886",
+        "website": "http://www.kfcvietnam.com.vn/",
+        "rate": "4,8/5 \uf005 (490 bài đánh giá)",
+        "information": "\n - PHÙ HỢP CHO NGƯỜI KHUYẾT TẬT: Nhà vệ sinh cho xe lăn\n\nCÁC TÙY CHỌN DỊCH VỤ:\n - Giao hàng gián tiếp\n - Giao hàng\n - Đồ ăn mang đi\n - Ăn tại chỗ\n\nLỰA CHỌN ĂN UỐNG:\n - Bữa trưa\n - Bữa tối\n - Dịch vụ ăn uống\n - Dịch vụ tại quầy\n - Món tráng miệng\n\nTIỆN NGHI:\n - Nhà vệ sinh\n\nTHANH TOÁN:\n - Thẻ ghi nợ\n - Thẻ tín dụng\n\nBẦU KHÔNG KHÍ:\n - Thông thường\n\nKHÁCH HÀNG:\n - Nhóm\n\nTRẺ EM:\n - Phù hợp cho trẻ em\n - Thực đơn dành cho trẻ em\n - Phù hợp cho tiệc sinh nhật của trẻ em\n\nBÃI ĐỖ XE:\n - Bãi đỗ xe miễn phí\n - Nhiều chỗ đỗ xe\n - Đỗ xe miễn phí trên đường"
+      }
+    }
+  ]
+}
